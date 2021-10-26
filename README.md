@@ -1,2 +1,2 @@
-# image-save
-图床，存储图片
+# picture
+仅用作图床
